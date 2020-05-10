@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-simple-tokenization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.0-beta.0",
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVincentChow/blockchain-simple-tokenization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVincentChow/blockchain-simple-tokenization/issues"
+  },
+  "homepage": "https://github.com/TheVincentChow/blockchain-simple-tokenization#readme"
+}
