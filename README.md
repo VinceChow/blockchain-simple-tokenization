@@ -4,4 +4,4 @@ A simple blockchain example of supply chain system built with [Ethereum](https:/
 
 Using [Infura](https://infura.io/) to deploy the smart contracts to Ethereum blockchain node.
 
-Created a simple coffee token (*CAPPU* coin) using smart contract [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20).
+Created a simple coffee token (*CAPPU* token) using smart contract [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20).
